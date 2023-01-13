@@ -5,7 +5,7 @@ import HeaderBar from '../components/HeaderBar';
 const LandingPage = () => {
   return (
     <Container>
-      {/* <HeaderBar /> */}
+      <HeaderBar />
       <h1> Testing App landing page</h1>
     </Container>
   );
